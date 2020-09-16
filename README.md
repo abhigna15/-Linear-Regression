@@ -1,2 +1,2 @@
 # -Linear-Regression
-Working of simple linear regression
+Working of simple linear regression.
